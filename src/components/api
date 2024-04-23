@@ -1,0 +1,105 @@
+{
+  "kind": "books#volume",
+  "id": "HpCsEAAAQBAJ",
+  "etag": "VBDhvTh7W34",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/HpCsEAAAQBAJ",
+  "volumeInfo": {
+    "title": "Harry Styles",
+    "publisher": "Hearst Home & Hearst Home Kids",
+    "publishedDate": "2023-10-24",
+    "description": "\u003cb\u003e\"A stunning new photo-packed book\" –\u003ci\u003eE! News \u003c/i\u003e\u003cbr\u003e\u003cbr\u003eThe perfect gorgeous pocket-sized hardcover gift book for all Harry Styles fans, packed with 100+ amazing photos and with a gold-foil stamped cover.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003ePlus, top cultural, music and fashion contributors discuss Harry’s cultural significance and answer the question: Why Harry, why now and just what makes him the man of the moment?\u003c/b\u003e\u003cbr\u003e\u003cb\u003e \u003c/b\u003e\u003cbr\u003eFabulously dressed with a flair all his own, unapologetic yet vulnerable, talented yet supremely humble: Harry Styles is a cultural phenomenon and icon for our times. This photo-packed, gold-foiled luxe gift book celebrates the global superstar’s impact on music and fashion and how his choice of positive and authentic self-expression and tolerance has helped redefine modern masculinity and celebrity worldwide. \u003cbr\u003e\u003cbr\u003eDivided into three sections–each with a short introduction about the music, the fashion, and the joyful magic of his appeal– this amazing collection of Harry’s signature moments includes:\u003cbr\u003e\u003cul\u003e\u003cli\u003e The Met Gala and his Gucci sheer pussy-bow black blouse and heeled boots \u003c/li\u003e\u003cli\u003eThe sparkling Coachella performance with Shania Twain\u003c/li\u003e\u003cli\u003eThe incredible launch of the #1 hit and video, As It Was\u003c/li\u003e\u003cli\u003eHis stunning appearances at red carpets, the Grammys, BRIT Awards, and more! \u003c/li\u003e\u003c/ul\u003e\u003cbr\u003eIf a person could be a smile, then that would be Harry–and that essence of Harry is what this exciting book captures. Stylers and Harries will adore and treasure this keepsake. \u003cbr\u003e\u003cbr\u003eContributors include: \u003cbr\u003e\u003cul\u003e\u003cli\u003eJem Aswad, executive music editor at Variety\u003c/li\u003e\u003cli\u003eAlex Bilmes, journalist and editor-in-chief of Esquire UK\u003c/li\u003e\u003cli\u003eNikki Cardiello, music and portrait photographer \u003c/li\u003e\u003cli\u003eAya Kanai, Head of Creative and Editorial at Google Shopping and former fashion editor at Hearst\u003c/li\u003e\u003c/ul\u003e",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "1958395013"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9781958395011"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 144,
+    "printedPageCount": 146,
+    "printType": "BOOK",
+    "categories": [
+      "Biography & Autobiography / Entertainment & Performing Arts",
+      "Biography & Autobiography / Music",
+      "Music / Genres & Styles / Pop Vocal"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=HpCsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72fdBlUmXOFLQ8jTUiHR-hbknh7qLy5wX-EdZntnlV5IFH0AcT9VnEbXS4uUzNCczDdwb5hu64um9Wq__EzPHB2sTGxSacUgOOSSPwqpRCSAU-gyLuMArQrXkwzBuRnQCgXKlp3&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=HpCsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE729DJjUhUuT8XUPfY1xLV_4l2JNfYK9i0vqkAT3iNPGJ-IfpbtHzpGg3UH2sn-Ztj6Bb3e64gkDGOubLT9NLDtXgMCQh4ruqyw5-OKdX8Uvj8WiWGI25KMZdGSCFaAHADNg4GDA&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=HpCsEAAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70lG_BoH6ZLU0WuesEjcFEE5_gb8WNSceQi_zxesxisYgBMGfJWU0zam5mn86gpgOuC3xbCywicVnDAT2nwTZYXaADnLZlczCcAADgbD-5BFtGGX5ho36wb1XdKDTV0sev4ixc-&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=HpCsEAAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE732C0hQxVL99QOKMomxhcwuGJncsS3ZMKqk1DHX94_Sdm6U8T1VScEP36tZcGaqHEpbww2uAKzYclLb1KeLuPQ7kUwMotRB_VTEJJafVl5rM6bTwIDLvu3RbVAGIBHAEE7A12iF&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=HpCsEAAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73ek5NlqgLTOsggW5J_4_qrvYJZlx2M5IqPHQ40l2AATm8B_slCVZb0z_Or453MZ9MIViwhqSboyOKW1ah-K13qCgV5YMTyMvcokxAhHOwQTjLXzIWjafRwmqkqITFCcDUhwQG-&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.in/books?id=HpCsEAAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=HpCsEAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HpCsEAAAQBAJ"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "1"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "IN",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 588.82,
+      "currencyCode": "INR"
+    },
+    "retailPrice": {
+      "amount": 294.41,
+      "currencyCode": "INR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=HpCsEAAAQBAJ&rdid=book-HpCsEAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 588820000,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amountInMicros": 294410000,
+          "currencyCode": "INR"
+        }
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "IN",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.in/books/download/Harry_Styles-sample-epub.acsm?id=HpCsEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.co.in/books/download/Harry_Styles-sample-pdf.acsm?id=HpCsEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=HpCsEAAAQBAJ&hl=&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}
